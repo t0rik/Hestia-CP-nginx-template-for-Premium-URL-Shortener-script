@@ -1,2 +1,2 @@
-# Hestia CP nginx template Premium-URL-Shortener script
+# Hestia CP nginx template for Premium URL Shortener script
 
